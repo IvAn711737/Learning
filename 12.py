@@ -93,3 +93,5 @@ print(Arithmetic_signs)
 for i in range(0,len(Arithmetic_signs)-1,1):
      rezalt_=sum_(X_values[0], Arithmetic_signs[i], X_values[i+1] )
      X_values[0]=rezalt_
+     #чисто тест для гита
+     
